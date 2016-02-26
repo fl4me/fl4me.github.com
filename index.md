@@ -4,7 +4,7 @@ title: Welcome
 tagline: personal blog
 ---
 {% include JB/setup %}
-<div class="container">
+<div class="bd">
 	<img src="http://www.bz55.com/uploads/allimg/150309/139-150309101A0.jpg"/>
 </div>
 <ul class="posts">
