@@ -1,0 +1,125 @@
+body {
+	margin-top: 20px;
+	padding-bottom: 50px;
+	background: url(../img/c5af049759ee3d6d9932007642166d224e4ade2e.jpg) fixed 100%;
+}
+
+.carousel {
+	height: 700px;
+	margin-bottom: 50px;
+	margin-top: 25px;
+	text-align: center;
+}
+
+.carousel .item {
+	height: 700px;
+}
+
+.carousel img {
+	width: 100%;
+}
+
+.carousel-caption p {
+	margin-top: 100px;
+	font-size: 20px;
+	line-height: 1.8px;
+}
+
+hr.divider {
+	margin: 40px;
+}
+
+#tabs {
+	margin-bottom: 40px;
+}
+
+#page-2 {
+	margin-top: 100px;
+	padding-top: 80px;
+	text-align: center;
+	font-size: 20px;
+	line-height: 1.8px;
+	height: 700px;
+	width: 1200px;
+}
+
+#page-2 .page-2-1 {
+	height: 100px;
+}
+
+#myContainer1,
+#myContainer2 {
+	width: 1200px;
+}
+
+#innerContainer1,
+#tabs1,
+#tabs2,
+#tabs3,
+#tabs4,
+#tabs5,
+#tabs6 {
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+#homePage {
+	position: relative;
+	text-align: center;
+	width: 1585px;
+	height: 750px;
+	background-size: 100%;
+	background-image: url(../img/background.jpg);
+}
+.head .portrait {
+	position: absolute;
+	left: 0px;
+	top: -10px;
+	float: left;
+	width: 250px;
+	height: 250px;
+	margin: 15px;
+	margin-top: 250px;
+	border: 1px #999999 solid;
+	text-align: center;
+	/*transform: rotate(-7deg);
+	-ms-transform: rotate(-7deg);
+	//IE 9 
+	-moz-transform: rotate(-7deg);
+	//Firefox 
+	-webkit-transform: rotate(-7deg);
+	//Safari or Chrome 
+	-o-transform: rotate(-7deg);
+	//Opera */
+	transition: transform 2s;
+	-ms-transition: -ms-transform 2s;
+	-moz-transition: -moz-transform 2s;
+	-webkit-transition: -webkit-transform 2s;
+	-o--transition: -o--transform 2s;
+}
+
+.head .portrait:hover {
+	transform: rotate(360deg);
+	-ms-transform: rotate(360deg);
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-o-transform: rotate(360deg);
+}
+
+.head .portrait span {
+	height: 100%;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.head .portrait img {
+	width: 94%;
+	height: 94%;
+	vertical-align: middle;
+}
+
+#picDisplay2 .row,
+#picDisplay1 .row{
+	margin-top:300px ;
+}
+
