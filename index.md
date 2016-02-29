@@ -4,7 +4,7 @@ title: Welcome!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
-# BLOGS  <img src="http://www.easyicon.net/api/resizeApi.php?id=566847&size=96" style="margin-top:-60px; margin-right:50px;"/>
+# Blogs  <img src="http://www.easyicon.net/api/resizeApi.php?id=566847&size=96" style="margin-top:-60px; margin-right:10px;"/>
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -12,7 +12,7 @@ tagline: Supporting tagline
   {% endfor %}
 </ul>
 
-####  FINAL WORDS
+####  Final Words
 
 This is my second time to attempt to modify this file. In fact, I have failed so many times.hope this time everthing's going be fine.
 
