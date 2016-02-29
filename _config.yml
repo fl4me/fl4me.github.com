@@ -92,7 +92,7 @@ JB :
       num_posts: 5
       width: 580
       colorscheme: light
-    duoshuo :
+    duoshuo :AuroraPolari
       short_name : Joe
    
   # Settings for analytics helper
