@@ -4,7 +4,7 @@ title: Welcome!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
-# Blogs  <img src="http://www.easyicon.net/api/resizeApi.php?id=566847&size=96" style="margin-top:-60px; margin-right:10px;"/>
+# Blogs  <img src="http://www.easyicon.net/api/resizeApi.php?id=566847&size=48" style="margin-top:-60px; margin-right:10px;"/>
 
 <ul class="posts">
   {% for post in site.posts %}
