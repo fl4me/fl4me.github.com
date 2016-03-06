@@ -3,7 +3,7 @@ layout: post
 title: "weekly summary"
 description: ""
 category: weekly summary
-tags: [weekly summary markdown]
+tags: [weekly][ summary][ markdown]
 ---
 {% include JB/setup %}
 
