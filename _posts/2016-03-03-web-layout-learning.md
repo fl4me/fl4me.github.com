@@ -2,8 +2,8 @@
 layout: post
 title: " web layout learning"
 description: "网页前端的漫长学习之旅"
-category: 
-tags: [网页学习 网页布局 vim编辑]
+category: lessons
+tags: [网页学习, 网页布局, vim]
 ---
 {% include JB/setup %}
 
@@ -19,7 +19,7 @@ tags: [网页学习 网页布局 vim编辑]
 
 ----------------------
 
-###有个很糟心的问题
+### 有个很糟心的问题
 
-有些时候写的网页会莫名其妙宽度过大，右边出现空白。虽然在_<body>_处用_overflow-x:hidden;_暂时
+有些时候写的网页会莫名其妙宽度过大，右边出现空白。虽然在**<body>**处用**overflow-x:hidden;**暂时
 在pc端解决了，然而在移动端却并没有什么用。望来客解答
