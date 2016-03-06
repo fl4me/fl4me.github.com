@@ -3,7 +3,7 @@ layout: post
 title: " web layout learning"
 description: "网页前端的漫长学习之旅"
 category: lessons
-tags: [网页学习, 网页布局, vim]
+tags: [web, web-layout, vim]
 ---
 {% include JB/setup %}
 
